@@ -1,0 +1,1 @@
+New-Service -Name {FolderMonitorService} -BinaryPathName {c:\services\monitor.exe} -Description "{description of sample service}" -DisplayName "{display name of service}" -StartupType Automatic
